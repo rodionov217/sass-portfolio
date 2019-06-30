@@ -77,4 +77,14 @@
   .projects {
     grid-template-columns: 1fr;
   }
+
+
+  .boxes{
+    div{
+      width: 100%;
+    }
+    span {
+    display: block;
+    }
+  }
 }
